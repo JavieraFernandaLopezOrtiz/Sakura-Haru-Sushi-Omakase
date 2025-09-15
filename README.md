@@ -40,7 +40,7 @@ Sakura-Haru-Sushi-Omakase/
    git clone https://github.com/tuusuario/Sakura-Haru-Sushi-Omakase.git
    cd Sakura-Haru-Sushi-Omakase
    
-##💻 Tecnologías usadas
+## 💻 Tecnologías usadas
 
 HTML5 – estructura del sitio.
 
