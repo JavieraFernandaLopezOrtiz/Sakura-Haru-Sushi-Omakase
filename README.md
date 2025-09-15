@@ -12,8 +12,7 @@ Incluye:
 - Sección de carta con platos ilustrados.  
 - Sección "Nosotros" con inspiración japonesa.  
 - Formulario de reservas con validación.  
-- Datos de contacto y mapa.  
-- Logo minimalista en SVG.  
+- Datos de contacto y mapa. 
 
 ---
 
