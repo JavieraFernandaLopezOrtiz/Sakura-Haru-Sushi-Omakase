@@ -34,12 +34,7 @@ Sakura-Haru-Sushi-Omakase/
 
 ---
 
-## ⚙️ Instalación y uso
-1. Clona este repositorio o descárgalo:
-   ```bash
-   git clone https://github.com/tuusuario/Sakura-Haru-Sushi-Omakase.git
-   cd Sakura-Haru-Sushi-Omakase
-   
+
 ## 💻 Tecnologías usadas
 
 HTML5 – estructura del sitio.
@@ -49,3 +44,14 @@ CSS3 – estilos responsive y variables CSS.
 JavaScript – interactividad (menú móvil, validación formulario).
 
 Google Fonts – Playfair Display & Outfit.
+
+
+---
+
+
+## ⚙️ Instalación y uso
+1. Clona este repositorio o descárgalo:
+   ```bash
+   git clone https://github.com/tuusuario/Sakura-Haru-Sushi-Omakase.git
+   cd Sakura-Haru-Sushi-Omakase
+   
