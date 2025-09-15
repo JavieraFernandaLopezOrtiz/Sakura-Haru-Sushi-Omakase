@@ -1,7 +1,3 @@
-// =========================
-// Sakura Haru – script.js
-// =========================
-
 // ----- Navbar toggle -----
 const navToggle = document.getElementById("navToggle");
 const siteNav = document.getElementById("site-nav");
@@ -35,10 +31,6 @@ if (bookingForm) {
       formMsg.hidden = false;
       return;
     }
-
-    // Aquí podrías hacer un fetch a tu backend o servicio externo
-    // Ejemplo: fetch('/api/reservas', { method:'POST', body: formData })
-
     formMsg.textContent = "¡Tu solicitud de reserva fue enviada con éxito! Te contactaremos pronto.";
     formMsg.style.color = "#4caf50";
     formMsg.hidden = false;
