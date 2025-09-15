@@ -23,8 +23,7 @@ Sakura-Haru-Sushi-Omakase/
 ├── styles.css # Estilos principales
 ├── script.js # Funciones JS (menú + reservas)
 ├── README.md # Documentación del proyecto
-└── assets/ # Imágenes y logo
-├── logo.svg
+└── assets/ # Imágenes
 ├── hero-sakura.jpg
 ├── sakura-roll.jpg
 ├── hanami-nigiri.jpg
